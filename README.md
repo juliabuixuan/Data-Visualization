@@ -2,7 +2,7 @@
 Creation of Tableau dashboards to show the perfomance of the top 6 chess players, acquired from www.chess.com . 
 
 Worked in a team to create dashboard to show:
-- the variance of the total performance of the top 6 players in the Bullet and Blitz mode from 2020 to 2021
+- the variance of the total performance of the top 6 players in the Bullet and Blitz mode from 2020 to 2021:
 https://public.tableau.com/app/profile/giovanni.cornacchia/viz/BBfinaleAssiOK/dash_dinamica2
 
 - scatterplot to show the number of winned games vs the number of games:
